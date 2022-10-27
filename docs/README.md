@@ -4,4 +4,4 @@ Cette technique est d'avantage respectueuse de l'environnement. Elle empreinte l
 
 ![introJpeg](pictures/Intro.jpeg)
 
-**Equipe :** Philippe, [Guillaume Leguen](http://www.guillaumeleguen.xyz/?PagePrincipale)
+**Equipe :** Philippe, [Guillaume Leguen](http://www.guillaumeleguen.xyz/?PagePrincipale) Malo
